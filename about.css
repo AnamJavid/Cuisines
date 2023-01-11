@@ -1,0 +1,11 @@
+body{background-color:beige;color:rosybrown;font-family: Tangerine;font-size: 45px;text-align: center;}
+h1{background-color:bisque ;color:brown;font-family:Tangerine;font-size: 50px;}
+h3{font-size: 40px;}
+img{border:5px solid rosybrown;padding: 10px;margin: 10px;}
+.navbar{font-family: tangerine;color: purple;background-color: lavenderblush;font-size: 25px;}
+ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;}
+li a{
+  display:block;text-decoration:none;color: purple;padding: 13px 15px;font-size:30px;
+}
+li{float: left;}
+li a:hover{background-color:pink;}
